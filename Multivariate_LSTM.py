@@ -1,3 +1,7 @@
+"""
+ Most of the code comes from the following blog:
+ https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+"""
 import numpy as np
 from pandas import read_excel, DataFrame, concat
 from matplotlib import pyplot
