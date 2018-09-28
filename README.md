@@ -1,5 +1,7 @@
 # Deep_Learning_LSTM
-Building a classifier model for the Multivariate Time Series data using LSTM in Keras 
+Building a classifier model for the Multivariate Time Series data using LSTM in Keras
+
+Inspired from this blog: https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
 
 This is a three-class classification problem for the given multivariate time series data.
 The "goal" column has three values 0 (no event), 1 (event of type 1), and 2 (event of type 2).
